@@ -1,0 +1,6 @@
+sphinx
+sphinx-rtd-theme  # Optional: For a nice ReadTheDocs theme
+sphinx-autodoc-typehints  # Optional: For better type hint support in autodoc
+sphinxcontrib-napoleon  # Optional: For Google and NumPy style docstrings
+sphinxcontrib-plantuml  # Optional: If using PlantUML diagrams
+myst-parser  # Optional: If you want to use Markdown in Sphinx
