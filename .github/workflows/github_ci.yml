@@ -34,7 +34,7 @@ jobs:
 
     - name: Create PDF
       run: | 
-        make latexpdf
+        
 
       
        
