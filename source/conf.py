@@ -6,17 +6,16 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Sphinx and Latex Documentation'
-copyright = '2025, Sandeep Reddy'
-author = 'Sandeep Reddy'
-release = '1.0'
+project = "Master's Thesis"
+copyright = '2025, Sandeep Reddy Modugu'
+author = 'Sandeep Reddy Modugu'
+release = '0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = ['myst_parser']
 
-myst_heading_anchors = 2
 templates_path = ['_templates']
 exclude_patterns = []
 
